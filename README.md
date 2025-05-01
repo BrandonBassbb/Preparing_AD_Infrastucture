@@ -4,7 +4,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines setting up a Domain Controller and a Client computer so that we can then install Active Directory Domain Services 
 
 
 <h2>Environments and Technologies Used </h2>
